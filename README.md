@@ -11,6 +11,7 @@ second order system parameters:
 - Percentage surpassing (UP);
 - Accommodation time (Ts);
 - Rising time (Tr);
+
 ![Screenshot main](https://raw.githubusercontent.com/jndgomes/secondorder-octave/main/screenshot.png)
 
 ---
@@ -28,6 +29,8 @@ parâmetros dos sistemas de segunda ordem, respectivamente:
 - Ultrapassagem de percentual (UP);
 - Tempo de Acomodação (Ts);
 - Tempo de subida (Tr);
+
+---
 
 # Output
 
