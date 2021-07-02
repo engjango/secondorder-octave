@@ -34,7 +34,7 @@ parâmetros dos sistemas de segunda ordem, respectivamente:
 
 # Output
 
-Some results obtained for files Sist_2Ord3.mat and Sist_2Ord5.mat.
+Some results obtained for files "Sist_2Ord3.mat" and "Sist_2Ord5.mat".
 
 ```
 >> script_sun
